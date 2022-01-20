@@ -26,4 +26,4 @@ Per preparar el dataset, hem codificat la superfície de la carretera, eliminat 
 | RandomForestClassifier | criterion= 'entropy', max_depth= 10, max_features= 'sqrt', n_estimators= 1000 | 100% | 344.610s |
 | Stacked | Model creat a partir del DecisionTreeClassifier, RandomForestClassifier i RandomForestClassifier amb Grid Serch| 99.9% | 30.695s |
 ## Conclusions
-El millor model basant-nos amb l'accuracy és el RandomForestClassifier però té un temps molt elevat, en canvi, els altres models tamb´´e tenen un accuracy molt elevat, tot per dalt del 98%, i la gran majoria amb un temps inferior a 0.1s.
+El millor model basant-nos amb l'accuracy és el RandomForestClassifier però té un temps molt elevat, en canvi, els altres models també tenen un accuracy molt elevat, tot per dalt del 98%, i la gran majoria amb un temps inferior a 0.1s.
