@@ -1,0 +1,9 @@
+Per executar el projecte és necessiten les llibreries següents:
+  -Numpy
+  -Pandas
+  -Matplotlib
+  -Sklearn
+  -Seaborn
+  -Scipy.stats
+  -Warnings
+  -Time
